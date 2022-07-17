@@ -44,13 +44,14 @@
   {
     "id": 8,
     "question": "What is James favorite programming language?",
-    "image": "https://jtagaca.live/images/chatbot8.jpg",
+    "image": "https://jtagaca.live/images/chatbot9.jpg",
+
     "answer": "Python"
   },
   {
     "id": 9,
     "question": "When did James first start coding?",
-    "image": "https://jtagaca.live/images/chatbot9.jpg",
+    "image": "https://jtagaca.live/images/chatbot8.jpg",
     "answer": "Freshman year of college 2019"
   },
   {

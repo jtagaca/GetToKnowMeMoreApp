@@ -33,14 +33,27 @@ function SimpleAccordion({ id, question, answer, image }) {
           setExpanded(!expanded);
         }}
       >
-        <AccordionSummary>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel1a-content"
+          id="panel1a-header"
+        >
           <Typography className={classes.heading}>{question}</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography>{answer}</Typography>
         </AccordionDetails>
       </Accordion>
-      {expanded && <img src={image} style={{ width: "500px" }} alt="" />}
+      {expanded && (
+        <img
+          src={image}
+          style={{
+            width: "600px",
+            height: "350px",
+          }}
+          alt=""
+        />
+      )}
     </div>
   );
 }
@@ -52,7 +65,7 @@ function Conversation() {
         flexDirection: "column",
         alignItems: "center",
 
-        padding: "10px",
+        padding: "40px",
         backgroundColor: "#020120",
         height: "100%",
       }}
