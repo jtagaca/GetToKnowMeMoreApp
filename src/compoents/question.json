@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is James Favorite Food?",
+    "image": "https://jtagaca.live/images/chatbot1.jpg",
+    "answer": "Roasted Chicken and Protein Shake"
+  },
+  {
+    "id": 2,
+    "question": "What is James Favorite Hobby",
+    "image": "https://jtagaca.live/images/chatbot2.jpg",
+    "answer": "Financial Investments and Money Management"
+  },
+  {
+    "id": 3,
+    "question": "What is James Favorite Movie?",
+    "image": "https://jtagaca.live/images/chatbot3.jpg",
+    "answer": "Big Short"
+  },
+  {
+    "id": 4,
+    "question": "What does James want to be when he grows up?",
+    "image": "https://jtagaca.live/images/chatbot4.jpg",
+    "answer": "A Enterpreneur and someone who changes the world for a better place"
+  },
+  {
+    "id": 5,
+    "question": "What does James do in his free time?",
+    "image": "https://jtagaca.live/images/chatbot5.jpg",
+    "answer": "Learning and Entrepreneurship"
+  },
+  {
+    "id": 6,
+    "question": "How many languanges and speech does James know?",
+    "image": "https://jtagaca.live/images/chatbot6.jpg",
+    "answer": "3"
+  },
+  {
+    "id": 7,
+    "question": "What is James current major?",
+    "image": "https://jtagaca.live/images/chatbot7.jpg",
+    "answer": "Computer Science"
+  },
+  {
+    "id": 8,
+    "question": "What is James favorite programming language?",
+    "image": "https://jtagaca.live/images/chatbot8.jpg",
+    "answer": "Python"
+  },
+  {
+    "id": 9,
+    "question": "When did James first start coding?",
+    "image": "https://jtagaca.live/images/chatbot9.jpg",
+    "answer": "Freshman year of college 2019"
+  },
+  {
+    "id": 10,
+    "question": "What was James first programming language?",
+    "image": "https://jtagaca.live/images/chatbot10.png",
+    "answer": "C++"
+  }
+]
