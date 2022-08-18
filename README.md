@@ -12,7 +12,7 @@ Alan AI is used in this project to answer questions about myself. This is done b
 <p align="center" width="100%">
 <img
       src="https://jtagaca.live/images/gettoknowmemore.gif"
-      height=540px width=1080px
+      height=540px 
    />
       </p>
 
