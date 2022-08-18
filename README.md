@@ -4,7 +4,7 @@ Get To Know Me More is an AI-powered app that allows you to ask AI questions abo
 
 ## Context
 
-Alan AI is used in this project to answer questions about myself. This is done by including pre-programmed responses to various topics. Furthermore, once the AI sends the current question it believes the user has asked, it opens a modal help as a visual aid to help the user understand the answer provided by the AI. This project uses React for the front end and GitHub pages to deploy the app.
+Alan AI is used in this project to answer questions about myself. This is done by including pre-programmed responses to various topics. Furthermore, once the AI sends the current question it believes the user has asked, it opens a modal to help as a visual aid to help the user understand the answer provided by the AI. This project uses React for the front end and GitHub pages to deploy the app.
 
 ## Test the site?
 
